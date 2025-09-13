@@ -1,1 +1,1 @@
-assets used within the game are all pre made from itch.io. vast majority of script was created by Brackeys and DevWorm on youtube. some script is customized. 
+assets used within the game are all pre made from itch.io. vast majority of script was created by Brackeys and DevWorm on youtube. some script is customized such as the spells and their initialization
